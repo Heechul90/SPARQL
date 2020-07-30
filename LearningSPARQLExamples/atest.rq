@@ -1,0 +1,7 @@
+# filename: atest.rq
+
+PREFIX ab: <http://learningsparql.com/ns/addressbook#> 
+
+SELECT ?heechulEmail
+WHERE
+{ ab:heechul ab:email ?cindyEmail .}

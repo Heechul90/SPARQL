@@ -2,6 +2,7 @@
 
 
 ## 목차
+
 - Chapter 1. 데이터와 질의로 뛰어들기
 - Chapter 2. 시맨틱 웹, RDF, 링크드 데이터, SPARQL
 - Chapter 3. SPARQL 질의에 깊게 들어가기

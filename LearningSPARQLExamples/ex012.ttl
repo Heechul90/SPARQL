@@ -16,9 +16,4 @@ d:i9771 ab:email     "cindym@gmail.com" .
 d:i8301 ab:firstName "Craig" . 
 d:i8301 ab:lastName  "Ellis" . 
 d:i8301 ab:email     "craigellis@yahoo.com" . 
-d:i8301 ab:email     "c.ellis@usairwaysgroup.com" . 
-
-d:i1111 ab:firstName "Heechul" . 
-d:i1111 ab:lastName  "Lee" . 
-d:i1111 ab:email     "heechul@yahoo.com" . 
-d:i1111 ab:email     "l.heeeeee@usairwaysgroup.com" . 
+d:i8301 ab:email     "c.ellis@usairwaysgroup.com" .
